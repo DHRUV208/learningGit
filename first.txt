@@ -5,3 +5,4 @@ who made changes and what
 .git local repo
 2nd commit
 i canged first.txt,now let us see the changes by git
+modified -->git add --> sttaged-->
